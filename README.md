@@ -1,5 +1,3 @@
-website
-=======
+WELCOME TO OUR WEBSITE 
 
-The MacGap website
-http://macgapproject.github.io
+Visit the MacGap Website here :- http://macgapproject.github.io
